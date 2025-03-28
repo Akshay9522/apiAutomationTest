@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "job": "QA Engineer"
+    },
+    {
+      "name": "Jane Smith",
+      "job": "Developer"
+    }
+  ]
+}

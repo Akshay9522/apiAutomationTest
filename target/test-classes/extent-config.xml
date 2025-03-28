@@ -1,0 +1,24 @@
+<extentreports>
+    <configuration>
+        <reporter>
+            <spark>
+                <enabled>true</enabled>
+                <file>reports/ExtentReport.html</file>
+            </spark>
+            <pdf>
+                <enabled>true</enabled>
+                <file>reports/ExtentReport.pdf</file>
+            </pdf>
+        </reporter>
+        <systeminfo>
+            <info>
+                <name>Environment</name>
+                <value>QA</value>
+            </info>
+            <info>
+                <name>Author</name>
+                <value>Akshay</value>
+            </info>
+        </systeminfo>
+    </configuration>
+</extentreports>
